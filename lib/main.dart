@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
           seedColor: Colors.deepPurple,
         ),
       ),
-      home: const MyHomePage(title: 'Flutter página teste'),
+      home: const MyHomePage(title: 'Flutter alterei no git'),
     );
   }
 }
